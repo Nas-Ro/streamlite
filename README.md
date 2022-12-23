@@ -4,4 +4,4 @@ The blog post that accompanies this repository [can be found here on my website]
 
 # Deployment
 
-[![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https://github.com/Nas-Ro/streamlite/blob/main/azuredeploy.json)
+[![Deploy To Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FNas-Ro%2Fstreamlite%2Fmain%2Fazuredeploy.json)
